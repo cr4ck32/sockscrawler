@@ -7,4 +7,4 @@ Installation:
 3. Make the file executable "chmod +x run.sh"
 4. run the shellscript "bash run.sh"
 
-This scraps the socks's proxy IP's and their port number and saves them to "proxy.csv" file
+This scraps the socks's proxy IP's and their port number from socks-proxy.net and saves them to "proxy.csv" file
